@@ -1,7 +1,6 @@
 /*
  * Comments Lex Program:
-     * Extracts single-line (//) and multi-line (slash-star ... star-slash)
-     * comments from a C source file and displays them separately.
+     * Extracts single-line (//) and multi-line (slash-star ... star-slash) comments from a C source file and displays them separately.
      * It also counts the number of each type of comment.
  */
 
