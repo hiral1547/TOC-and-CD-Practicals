@@ -1,7 +1,9 @@
-/* 
-Comments Lex Program:
-    Extracts single-line (//) and multi-line (/* */) comments from a C source file and displays them separately. It also counts the number of each type of comment.
-*/
+/*
+ * Comments Lex Program:
+     * Extracts single-line (//) and multi-line (/* ... */)
+     * comments from a C source file and displays them separately.
+     * It also counts the number of each type of comment.
+ */
 
 %{
 #include <stdio.h>
