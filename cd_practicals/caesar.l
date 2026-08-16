@@ -1,3 +1,9 @@
+/* Caesar Cipher:
+    Encrypts text by shifting each letter by a fixed key.
+    Example: key = 3 → HELLO becomes KHOOR.
+    Decryption shifts the letters backward by the same key.
+*/
+
 %{
 #include <stdio.h>
 #include <ctype.h>

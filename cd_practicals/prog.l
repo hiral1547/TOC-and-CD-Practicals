@@ -1,3 +1,9 @@
+/*
+This practical reads the input text, counts the frequency of each word and displays the words along with
+their counts in the form of a histogram.
+*/
+
+
 %{
 #include <stdio.h>
 #include <string.h>
